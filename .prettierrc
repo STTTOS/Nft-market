@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "prettier-plugin-classify-imports"
+  ],
+  "importOrder": [
+    "^[./]|(@\/)"
+  ],
+  "singleQuote": true,
+  "semi": false,
+  "trailingComma": "none"
+}

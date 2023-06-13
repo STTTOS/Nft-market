@@ -1,0 +1,20 @@
+{
+  "name": "#Nft two",
+  "description": "second Nft",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbTp4n88Yjj931Gg4qz4LYLuCSdQwCv6sn5u8fzs16KsB?_gl=1*7dt9ft*rs_ga*NTI1Mzk1Mzk0LjE2ODYyMDQ4OTk.*rs_ga_5RMPXG14TE*MTY4NjIwODI3Mi4yLjAuMTY4NjIwODI3Mi42MC4wLjA.",
+  "price": "3",
+  "attributes": [
+    {
+      "type": "attack",
+      "value": "40"
+    },
+    {
+      "type": "health",
+      "value": "50"
+    },
+    {
+      "type": "speed",
+      "value": "60"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "extends": "next/core-web-vitals",
+  "plugins": [
+    "unused-imports"
+  ],
+  "rules": {
+    "quotes": [
+      "error",
+      "single"
+    ],
+    "semi": [
+      "error",
+      "never"
+    ],
+    "comma-dangle": [
+      "error",
+      "never"
+    ],
+    "unused-imports/no-unused-imports-ts": "error"
+  }
+}
